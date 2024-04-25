@@ -47,24 +47,30 @@ body{
     text-align: center;
 }
 h5{
-text-align: start;
-color: rgb(25, 25, 25);
-font-size: medium;
-position: absolute;
-top: 670px;
-left: 4%;
+    text-align: start;
+    color: rgb(25, 25, 25);
+    font-size: medium;
+    position: absolute;
+    top: 670px;
+    left: 4%;
 }
- td{
-    border:1px solid black;
-    text-align: center;
-    }
-    table{
-        text-align: center;
-    }
-    h3{
-        float: inline-start;
+ h3{
+    float: inline-start;
     }
     h1{
-     background-color: hsl(343, 80%, 94%);  
+    background-color: hsl(343, 80%, 94%);  
     }
-    
+    button{
+     background-color:  #dedcdd;
+    border: 4px;
+    border-radius: 5px;
+    height: 25px;
+    width: 150px;
+    border-style:inherit;
+    font-size: 10px;
+    }
+    h2{
+    color: black;
+    text-align: start;
+    font-size: 21px;
+    }

@@ -5,3 +5,11 @@
 body{
   background-color:hsl(342, 100%, 97%); ;  
 }
+table, td{
+  background-color: rgb(255, 114, 138);
+  border: 2px solid hsla(0, 95%, 85%, 0.997);
+  font-size: 20px;
+}
+h4{
+  font-size: 30px;
+}
