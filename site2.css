@@ -1,7 +1,4 @@
 
-
-
-
 body{
   background-color:hsl(342, 100%, 97%); ;  
 }
@@ -13,3 +10,12 @@ table, td{
 h4{
   font-size: 30px;
 }
+button{
+  background-color:  #dedcdd;
+ border: 4px;
+ border-radius: 5px;
+ height: 25px;
+ width: 150px;
+ border-style:inherit;
+ font-size: 10px;
+ }
